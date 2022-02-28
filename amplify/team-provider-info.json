@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-doge-dev-173635-authRole",
+      "UnauthRoleArn": "arn:aws:iam::136286537692:role/amplify-doge-dev-173635-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::136286537692:role/amplify-doge-dev-173635-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-doge-dev-173635-deployment",
+      "UnauthRoleName": "amplify-doge-dev-173635-unauthRole",
+      "StackName": "amplify-doge-dev-173635",
+      "StackId": "arn:aws:cloudformation:us-east-1:136286537692:stack/amplify-doge-dev-173635/900b5170-9871-11ec-a5e7-0ac70587e6d5",
+      "AmplifyAppId": "dlkmvpa2191mq"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "doge",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/Users/suminjung/Desktop/Programming/infra/serverless/amplify/my-app/amplify/backend/api/doge/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7
+    }
+  }
+}
